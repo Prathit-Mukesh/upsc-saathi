@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.upscsaathi.app",
+        "sha256_cert_fingerprints": ["71:26:16:1C:A3:10:CF:75:AD:31:ED:C1:1B:C2:04:91:6A:52:88:CE:D1:03:7A:52:4E:3E:71:0C:4D:57:FA:C2"]
+      }
+    }]
